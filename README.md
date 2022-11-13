@@ -1,4 +1,4 @@
-# Leetcode 101 章后练习题解
-Leetcode 101: A Leetcode Grinding Guide的每章后面都有一些练习题, 但是作者可能太忙了，没有提供练习题的题解。
+# LeetCode 101 章后练习题解
+LeetCode 101: A LeetCode Grinding Guide的每章后面都有一些练习题, 但是作者可能太忙了，没有提供练习题的题解。
 
 所以我打算在刷题的同时记录一下我的题解，尽量追求简洁和清晰，抛砖引玉，方便之后刷题的朋友们参考
