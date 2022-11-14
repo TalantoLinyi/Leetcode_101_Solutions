@@ -13,7 +13,6 @@ public:
             ans.push_back(path);
             return;
         }
-        if (pos == candidates.size()) return;
         for (int i = pos; i < candidates.size() && candidates[i] <= target; ++i) {
             if (i > pos && candidates[i] == candidates[i - 1]) continue;
             path.push_back(candidates[i]);
